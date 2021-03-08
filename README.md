@@ -1,0 +1,1 @@
+University tasks on Prolog
